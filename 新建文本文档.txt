@@ -1,0 +1,4 @@
+D:\@
+C:\Users\lvxinwei
+
+C:\Users\lvxinwei\AppData\Local\Continuum\anaconda3\python.exe C:\Users\lvxinwei\AppData\Local\Continuum\anaconda3\cwp.py C:\Users\lvxinwei\AppData\Local\Continuum\anaconda3 C:\Users\lvxinwei\AppData\Local\Continuum\anaconda3\python.exe C:\Users\lvxinwei\AppD
